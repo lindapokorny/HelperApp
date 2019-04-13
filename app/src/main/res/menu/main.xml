@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_favorite"
+        android:icon="@drawable/hammer"
+        android:orderInCategory="300"
+        android:title="Jobs"
+        app:showAsAction="ifRoom"
+        android:onClick="showJobsListFragment"/>
+    <item
+        android:id="@+id/github_link"
+        android:title="Github"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/linkedin_link"
+        android:title="LinkedIn"
+        app:showAsAction="never"/>
+</menu>

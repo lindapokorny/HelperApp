@@ -1,3 +1,36 @@
 <resources>
-    <string name="app_name">HelperApp</string>
+    <string name="app_name">Handy_Helper_App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="sign_up">Sign Up</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="remember_me_checkbox">Remember me</string>
+    <string name="remember_me">Remember me</string>
+    <string name="log_in">Log In</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="jobs">Jobs</string>
+    <string name="date">date</string>
+    <string name="address">address</string>
+    <string name="notes">notes</string>
+    <string name="view_jobs">View Jobs</string>
+    <string name="delete_job">Delete Job</string>
+    <string name="edit_job">Edit Job</string>
+    <string name="add_job">Add Job</string>
+    <string name="add_job2">Add Job</string>
+    <string name="save_job">Save Job</string>
+    <string name="sign_up_now">Don\'t have an account? Sign up now!</string>
+    <string-array name="options_array">
+        <item>Sign Up</item>
+        <item>Log In</item>
+        <item>Jobs</item>
+    </string-array>
 </resources>
